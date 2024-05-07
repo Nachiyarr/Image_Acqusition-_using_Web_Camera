@@ -93,7 +93,8 @@ while True:
 ![image](https://github.com/Nachiyarr/Image_Acqusition-_using_Web_Camera/assets/113497340/3d11e716-7055-434b-9f7c-5d0f73959aa9)
 
 ### ii) Display the video
-![Screenshot 2024-05-07 182022](https://github.com/Nachiyarr/Image_Acqusition-_using_Web_Camera/assets/113497340/f1b87b6b-7e17-4274-9ac3-88390185ef72)
+![image](https://github.com/Nachiyarr/Image_Acqusition-_using_Web_Camera/assets/113497340/3d11e716-7055-434b-9f7c-5d0f73959aa9)
+
 
 ### iii) Display the video by resizing the window
 ![Screenshot 2024-05-07 182022](https://github.com/Nachiyarr/Image_Acqusition-_using_Web_Camera/assets/113497340/6ff05ba2-38e9-4b8d-97d1-d9d34b3188cc)
